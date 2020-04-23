@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and ponies
 
 vibgyor Colors
 
@@ -12,3 +12,5 @@ Orange
 Red
 
 These are the colors of rainbow and unicorn
+
+and ponies
