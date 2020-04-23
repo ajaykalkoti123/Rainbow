@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 vibgyor Colors
 
@@ -9,3 +9,5 @@ Green
 Yellow
 Orange
 Red
+
+These are the colors of rainbow and unicorn
