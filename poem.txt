@@ -4,6 +4,7 @@ vibgyor Colors
 
 Viloet
 Indigo
+white
 Blue
 Green
 Yellow
